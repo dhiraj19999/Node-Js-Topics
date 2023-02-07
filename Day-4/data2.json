@@ -1,0 +1,23 @@
+{
+    "students": [
+        {
+            "name": "dhiraj",
+            "work": "frontend"
+        },
+        {
+            "name": "raj",
+            "work": "backeend"
+        },
+        {}
+    ],
+    "teacher": [
+        {
+            "name": "albert",
+            "work": "frontend"
+        },
+        {
+            "name": "pulkit",
+            "work": "backeend"
+        }
+    ]
+}
